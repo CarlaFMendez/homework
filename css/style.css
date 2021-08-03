@@ -1,0 +1,54 @@
+
+body{
+margin: 0;
+padding: 0;
+background: url(https://wallpaperaccess.com/full/2526814.jpg);   
+background-size: 100% 100%;
+background-position-x: center;
+background-size: center;
+background-attachment: fixed;
+font-family: sans-serif;
+background-repeat: no-repeat;
+display: block;
+justify-content: center;
+    }
+h1{
+    color: blanchedalmond;
+    font-size: 6em;
+    text-align: center;
+    justify-content: space-around;
+    }
+#thirdDiv{
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    padding: 50px;
+    top: 200px;
+    border-top: white 8px ridge;
+    border-bottom: white 8px ridge;
+    border-right: white 8px ridge;
+    border-left: white 8px ridge;
+    justify-content: center;
+    justify-content: space-around;
+    }
+#spanid{
+    margin: 50px; 
+    font-family:monospace;
+    text-align: center;
+    font-size: 18px;
+    justify-content: center;
+    justify-content: space-around;
+    }
+.divClass{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: large;
+    top: 50%;
+    left: 50%;
+    transform: translateY(0.008em);
+    font-weight: 100;
+    justify-content: center;
+    justify-content: space-around;
+
+    }
+
